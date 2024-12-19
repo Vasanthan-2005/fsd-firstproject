@@ -117,7 +117,7 @@ function App() {
   };
 
   return (
-    <div className="d-flex bg-primary vh-100 align-items-center justify-content-center">
+    <div className="d-flex bg-dark vh-100 align-items-center justify-content-center">
       <div className="bg-white p-4 w-75 border-100 rounded">
         <form onSubmit={handleregister}>
           <div className="row mb-3">
